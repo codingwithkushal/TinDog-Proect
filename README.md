@@ -1,1 +1,1 @@
-# TinDog-Proect
+# TinDog-Project
